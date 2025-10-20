@@ -59,8 +59,7 @@ The goal of this project is to turn raw data into actionable insights that help 
 ---
 
 ## 📂 Files Included
-- `Ecommerce_Sales_Dashboard.xlsx` → Main Excel dashboard  
-- `Raw_Data.csv` → Source data (optional)  
+- `E-commerce Sales Performance Dashboard 2024.xlsx` → Main Excel dashboard  
 - `README.md` → Project documentation  
 
 ---
