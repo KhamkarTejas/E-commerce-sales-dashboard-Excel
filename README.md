@@ -47,7 +47,8 @@ The goal of this project is to turn raw data into actionable insights that help 
 
 ## 📊 Dashboard Preview
  
-`[Dashboard Screenshot](https://github.com/KhamkarTejas/E-commerce-sales-dashboard-Excel/blob/main/Dashboard.PNG)`
+<img width="1388" height="622" alt="Dashboard" src="https://github.com/user-attachments/assets/d0f0d216-1fa6-403b-b517-92f795433d9e" />
+
 
 ---
 
@@ -55,12 +56,6 @@ The goal of this project is to turn raw data into actionable insights that help 
 - Enhanced skills in **data storytelling and visualization** using Excel.  
 - Learned to identify **customer behavior patterns and sales opportunities**.  
 - Delivered a **professional dashboard** that supports quick business decisions.
-
----
-
-## 📂 Files Included
-- `Ecommerce_Sales_Dashboard.xlsx` → Main Excel dashboard 
-- `README.md` → Project documentation
 
 ---
 
