@@ -59,7 +59,7 @@ The goal of this project is to turn raw data into actionable insights that help 
 ---
 
 ## 📂 Files Included
-- `E-commerce Sales Performance Dashboard 2024.xlsx` → Main Excel dashboard  
+- `[E-commerce Sales Performance Dashboard 2024.xlsx](https://github.com/KhamkarTejas/E-commerce-sales-dashboard-Excel/blob/main/E-commerce%20Sales%20Performance%20Dashboard%202024.xlsx)` → Main Excel dashboard  
 - `README.md` → Project documentation  
 
 ---
