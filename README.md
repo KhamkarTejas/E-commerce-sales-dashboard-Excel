@@ -47,7 +47,7 @@ The goal of this project is to turn raw data into actionable insights that help 
 
 ## 📊 Dashboard Preview
  
-`[Dashboard Screenshot]()`
+`[Dashboard Screenshot](https://github.com/KhamkarTejas/E-commerce-sales-dashboard-Excel/blob/main/Dashboard.PNG)`
 
 ---
 
